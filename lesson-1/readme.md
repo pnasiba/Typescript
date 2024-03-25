@@ -197,6 +197,8 @@ type units = string | number
 let result: units = 24
 ```
 
+<br>
+
 ### Interface
 - Ichida bor bo'lmasa xatolik beradi, extend olish mumkun. Non-primative(Object va Array) typelarga __interface__ yozish kerak. 
 ```
